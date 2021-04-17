@@ -16,6 +16,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 
+
 #include is a function you can use to include URLs from other apps in the root URLS file
 
 urlpatterns = [
